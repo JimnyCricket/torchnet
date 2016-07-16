@@ -86,8 +86,7 @@ This function do a deep copy of a table.
 })
 ```
 
-This function add to the destination table `dest`, the
-element contained in the source table `source`.
+This function adds the elements from the table `source` to the destination table `dest`.
 
 The copy is shallow.
 
