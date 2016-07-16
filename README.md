@@ -75,7 +75,7 @@ will only work with torch tensors.
 <a name="utils.table.clone">
 #### tnt.utils.table.clone(table)
 
-This function do a deep copy of a table.
+This function does a deep copy of a table.
 
 <a name="utils.table.merge">
 #### tnt.utils.table.merge(dst, src)
